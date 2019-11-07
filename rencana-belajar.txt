@@ -3,3 +3,5 @@ python
 tarikh
 belajar random aja
 -habisin buku di kindle
+-habisin buku yang belum selesai
+-selasaikan python
