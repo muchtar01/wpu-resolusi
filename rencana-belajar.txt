@@ -3,3 +3,5 @@ python
 tarikh
 belajar random aja
 -habisin buku di kindle
+-naik sepeda seminggu sekali
+belajar excell
