@@ -4,4 +4,6 @@ tarikh
 belajar random aja
 -habisin buku di kindle
 -naik sepeda seminggu sekali
-belajar excell
+-belajar excel
+-habisin buku yang belum selesai
+-selasaikan python
